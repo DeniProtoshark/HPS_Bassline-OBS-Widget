@@ -33,7 +33,7 @@ jobs:
 
     - name: Syntax check
       run: |
-        python -m py_compile "Now_Playng 1K.py"
+        python -m py_compile "Now_Playng.py"
 
     - name: Smoke test Flask app
       run: |
