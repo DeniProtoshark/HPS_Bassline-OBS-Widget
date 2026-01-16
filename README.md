@@ -1,6 +1,5 @@
 This is a self-written portable widget in python to display what is currently playing on the Azuracast api and outputs the icon, title, author and audio stream sound.!
 
-![image](https://github.com/user-attachments/assets/e8995be9-5b40-41fb-b4c0-8d208caf12e1)
+<img width="974" height="547" alt="image" src="https://github.com/user-attachments/assets/2f2c44fb-dd18-4be0-9b45-d12db864eee0" />
 
-
-![image](https://github.com/user-attachments/assets/b27e9418-e5ce-4d8f-86d9-8410d51a2946)
+<img width="167" height="75" alt="image" src="https://github.com/user-attachments/assets/e1c695ad-d4a3-4f30-a0f9-5bf1380d46c9" />
