@@ -5,7 +5,7 @@ import time
 
 OPENWEATHER_API_KEY = "36028ec586574b08f1f58569db42961a"
 CITIES = [
-    "Tallinn,EE", "Tartu,EE", "Narva,EE", "Pärnu,EE", "Kohtla-Järve,EE", "Viljandi,EE", "Rakvere,EE", "Maardu,EE", "Sillamäe,EE", "Kuressaare,EE", "Haapsalu,EE"
+    "Tallinn,EE", "Haapsalu,EE", "Narva,EE", "Pärnu,EE", "Kohtla-Järve,EE", "Viljandi,EE", "Rakvere,EE", "Maardu,EE", "Sillamäe,EE", "Kuressaare,EE", "Tartu,EE"
 ]
 
 app = Flask(__name__)
@@ -187,3 +187,4 @@ def weather_api():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5001)
+
