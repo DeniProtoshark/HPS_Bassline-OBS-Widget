@@ -1,8 +1,8 @@
 import requests
 from flask import Flask, jsonify, render_template_string
 
-AZURACAST_API_URL = "http://hpsbassline.myftp.biz:90/api/station/haapsaly_bassline/nowplaying"
-AUDIO_STREAM_URL = "http://hpsbassline.myftp.biz:90/listen/haapsaly_bassline/radio.flac"
+AZURACAST_API_URL = " * "
+AUDIO_STREAM_URL = " * "
 
 app = Flask(__name__)
 
@@ -190,3 +190,4 @@ def nowplaying_api():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
